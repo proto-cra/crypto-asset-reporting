@@ -1,0 +1,48 @@
+---
+title: "Crypto-asset reporting"
+description: ""
+subject: "Economics and Industry;Taxes"
+keywords: ""
+auth:
+  type: "contextual"
+  label: "Sign in"
+  labelExtended: "CRA sign in"
+  link: "https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html"
+altLangPage: "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/tps-tvh-entreprises/remplir-produire-declaration-entreprise.html"
+dateModified: 2025-XX-XX
+dateIssued: 2025-XX-XX
+breadcrumbs: # By default the Canada.ca crumbs is already set
+  - title: "Canada Revenue Agency (CRA)"
+    link: "https://www.canada.ca/en/revenue-agency.html"
+  - title: "CRA compliance and enforcement"
+    link: "https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/compliance.html"
+feedbackData:
+  section: "Crypto-asset reporting"
+---
+<p>Crypto-asset users and other individuals and entities that provide business services facilitating exchange transactions in crypto-assets
+  <mark>are subject to certain reporting rules for tax purposes.</mark>
+</p>
+<nav class="provisional gc-subway">
+  <h2>Sections</h2>
+  <dl>
+    <dt> <a href="what-it-is.html">What crypto-asset reporting is</a></dt>
+    <dd>Definitions and background</dd>
+    <dt> <a href="who-is-affected.html">Who is affected</a> </dt>
+    <dd>Understand who has obligations
+      <mark>to report information</mark>
+    </dd>
+    <dt> <a href="information-shared.html">What information is shared</a> </dt>
+    <dd>Find out what type of information is shared</dd>
+    <dt> <a href="filing-information-returns.html">Filing information returns</a> </dt>
+    <dd>Review the filing instructions and determine due dates</dd>
+    <dt> <a href="contact-us.html">Contact us</a> </dt>
+    <dd>
+      <mark>Leave us a voicemail</mark>
+      if you have questions</dd>
+  </dl>
+</nav>
+<h2 class="h5 mrgn-tp-lg">Related information</h2>
+<ul>
+  <li><a href="https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/compliance/link-TBD.html">Guidance on the Crypto-Asset Reporting Framework</a></li>
+  <li><a href="https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/compliance/link-TBD.html">Completing a Part XXI information return</a></li>
+</ul>
